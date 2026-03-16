@@ -12,7 +12,7 @@ This project is a Simple Interest Calculator that allows users to compute simple
 1. Clone the repository:  
    `git clone https://github.com/dhrupadkashyap100/simple-interest-calculator.git`
 2. Navigate to the project directory:  
-   `cd simple-interest-calculator`
+   `cd github-final-project`
 3. Open the index.html file in your web browser.
 
 ## Usage
